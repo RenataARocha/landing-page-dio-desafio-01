@@ -3,12 +3,10 @@
 Este projeto faz parte da **Trilha de CSS da [DIO](https://www.dio.me/)**.  
 O desafio era criar uma **Landing Page** utilizando **HTML** e **CSS**, explorando fundamentos da linguagem, propriedades básicas, unidades de medida relativas e absolutas, além de aplicar conceitos de responsividade.
 
-![Preview da Landing Page](./assets/images/banner.png)
-
 ---
 
 ## 🔗 Acesse o projeto
-[🔗 Clique aqui para ver minha versão no ar](https://seu-usuario.github.io/nome-do-repo/)
+[🔗 Clique aqui para ver minha versão no ar](https://renataarocha.github.io/landing-page-dio-desafio-01/)
 
 ---
 
@@ -22,8 +20,7 @@ O desafio era criar uma **Landing Page** utilizando **HTML** e **CSS**, exploran
 
 ---
 
-## ✨ O que personalizei
-- Adaptei o layout para **ser responsivo sem usar media queries**  
+## ✨ O que personalizei  
 - Usei **`clamp()`** para escalonar tamanhos de textos  
 - Ajustei espaçamentos com **unidades relativas** (`vh`, `%`, `min()`)  
 - Mantive uma tipografia limpa com a fonte **Raleway**  
@@ -35,7 +32,6 @@ O desafio era criar uma **Landing Page** utilizando **HTML** e **CSS**, exploran
 .
 ├── index.html
 ├── style.css
-├── reset.css
 └── assets
     └── images
         ├── banner.png
@@ -72,7 +68,11 @@ start index.html
 ---
 
 ## 📸 Resultado Final
-![Preview da Landing Page](./assets/images/woman-code.png)
+
+
+
+https://github.com/user-attachments/assets/c02a2b0f-166b-42e1-8d16-76020a3dd8d3
+
 
 ---
 
